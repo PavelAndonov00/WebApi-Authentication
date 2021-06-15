@@ -1,2 +1,2 @@
 # WebApi-Authentication
-Example creating jwt
+Sample ASP jwt authentication
